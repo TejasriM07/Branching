@@ -27,8 +27,6 @@
 
         }
 
-
-
     #fields{
     display: flex;
     flex-direction: column;
@@ -49,16 +47,16 @@
                 height: 30px ;
                 width:50%;
                 border: none;
-                box-shadow: 0 0 3px rgb(181, 155, 10);
+                box-shadow: 0 0 3px rgb(238, 204, 12);
                 
             }
         }
     }
     #btn{
         button{
-            color: rgb(5, 47, 35);
+            color: rgb(221, 222, 222);
             padding: 10px 25px;
-            background-color:gold;
+            background-color:rgb(241, 212, 46);
             border: none;
             font-family:Verdana, Geneva, Tahoma, sans-serif;
             border-radius: 15px;
